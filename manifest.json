@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "basedpyright-zed",
+  "versions": [
+    {
+      "commit": "a6012ade8a2440434c10924ecfc33fda012f9f55",
+      "parsed_at": "2026-10-11T09:09:18.301458+00:00",
+      "filetree": "filetree/a6012ade8a2440434c10924ecfc33fda012f9f55.nq.gz",
+      "blobs": [
+        "blob/4f6ca588e01bec367a3f292201610b9b2801ace0.nq.gz",
+        "blob/6adda1691a4b3c143003353ba26104e17a47cc2e.nq.gz",
+        "blob/c145771a67bffb71732b2a1cf03f29013a77243c.nq.gz",
+        "blob/5ae7563067065192d9c6b13d34bdd3d664a36639.nq.gz",
+        "blob/7cf523123628bc85afd66acf0996381c1aca432f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
